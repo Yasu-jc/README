@@ -13,7 +13,7 @@
 
 <!-- Sobre mí -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7C045&center=true&vCenter=true&width=435&lines=%F0%9F%91%80+SOBRE+M%C3%8D+%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=FF6F91&center=true&vCenter=true&width=435&lines=%F0%9F%91%80+SOBRE+M%C3%8D+%F0%9F%91%80" alt="Typing SVG" />
 </a>
 
 ✨ Me gusta aprender cosas nuevas  
@@ -23,23 +23,9 @@
 
 ---
 
-<!-- Herramientas -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+HERRAMIENTAS+Y+TECNOLOG%C3%8DAS+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ffca28?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
 <!-- Estadísticas -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yasu-jc&show_icons=true&theme=tokyonight&locale=es" width="450"/>
@@ -54,7 +40,7 @@
 
 <!-- Proyectos -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=00C9A7&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <a href="https://github.com/Yasu-jc/Marin_Kitagawa-Bot">
