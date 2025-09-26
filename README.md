@@ -16,12 +16,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=FF6F91&center=true&vCenter=true&width=435&lines=%F0%9F%91%80+SOBRE+M%C3%8D+%F0%9F%91%80" alt="Typing SVG" />
 </a>
 
-✨ Me gusta aprender cosas nuevas  
-🤖 Actualmente desarrollando **bots para WhatsApp**  
-📚 Explorando el mundo de **JavaScript y Node.js**  
-🎮 Amante de los videojuegos y la tecnología  
 
----
 
 <!-- Estadísticas -->
 <a href="https://git.io/typing-svg">
