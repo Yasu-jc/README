@@ -11,15 +11,28 @@
 
 <div align="center">
 
-<!-- Contacto -->
+<!-- Sobre mí -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7C045&center=true&vCenter=true&width=435&lines=%F0%9F%91%80+SOBRE+M%C3%8D+%F0%9F%91%80" alt="Typing SVG" />
+</a>
+
+✨ Me gusta aprender cosas nuevas  
+🤖 Actualmente desarrollando **bots para WhatsApp**  
+📚 Explorando el mundo de **JavaScript y Node.js**  
+🎮 Amante de los videojuegos y la tecnología  
+
+---
+
+<!-- Herramientas -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+HERRAMIENTAS+Y+TECNOLOG%C3%8DAS+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <a href="https://github.com/Yasu-jc"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JavaScript-ffca28?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -31,6 +44,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yasu-jc&show_icons=true&theme=tokyonight&locale=es" width="450"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasu-jc&layout=compact&theme=tokyonight&locale=es" width="300"/>
+
+---
+
+<!-- Racha -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Yasu-jc&theme=tokyonight&hide_border=true&locale=es" width="500"/>
 
 ---
 
